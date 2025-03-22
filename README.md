@@ -1,81 +1,120 @@
-<!-- ====== START OF README ====== -->
 <h1 align="center">Hi 👋, I'm Beka Tessema</h1>
-
 <h3 align="center">
-  A passionate full-stack developer specialized in JavaScript, Node.js, React, and MySQL.
+  A passionate full-stack developer with a love for building efficient, scalable, and user-friendly applications.
 </h3>
 
 <p align="center">
-  <a href="https://github.com/beka-web-dev">
-    <img src="https://img.shields.io/badge/Follow-GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Badge" />
-  </a>
-  <a href="mailto:bktessem9@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Me-red?style=for-the-badge&logo=gmail" alt="Contact Badge" />
+  <img src="https://komarev.com/ghpvc/?username=beka-web-dev&label=Profile%20views&color=0e75b6&style=flat" alt="beka-web-dev" />
+  <a href="https://github.com/beka-web-dev?tab=followers">
+    <img src="https://img.shields.io/github/followers/beka-web-dev?label=Followers&style=social" alt="GitHub Followers">
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=beka-web-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+---
+
+### 🚀 **About Me**
+- 🔭 I’m currently working on a **School Management System**.
+- 🌱 I’m learning **Advanced React and Node.js**.
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/beka-web-dev).
+- 📫 How to reach me: **bktessem9@gmail.com**.
+- ⚡ Fun fact: I love solving problems and building things from scratch.
+
+---
+
+### 🌐 **Connect with Me**
+<p align="left">
+  <a href="https://linkedin.com/in/beka-tessema" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://medium.com/@yourusername" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
 </p>
 
 ---
 
-### 🔭 Current Project
-- **School Management System**  
-  An interactive and scalable system designed for efficient school management.
+### 🛠️ **Languages and Tools**
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  </a>
+</p>
 
 ---
 
-### 👨‍💻 My Projects
-Explore my projects on [GitHub](https://github.com/beka-web-dev).
-
----
-
-### 📫 How to Reach Me
-- **Email:** [bktessem9@gmail.com](mailto:bktessem9@gmail.com)
-- **LinkedIn:** [Beka Tessema](https://linkedin.com/in/beka-tessema)
-
----
-
-### 💻 Languages and Tools
-
-<div align="center">
-  <!-- Animated icons can give a dynamic feel -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45" title="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" title="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45" title="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45" title="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="45" height="45" title="Bootstrap" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="45" height="45" title="Sass" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45" title="Tailwind CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="45" title="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45" title="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45" title="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45" title="AWS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45" title="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="45" height="45" title="Express" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="45" height="45" title="Redux" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="45" height="45" title="Firebase" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45" title="Git" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45" title="Postman" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="45" height="45" title="Photoshop" />
-</div>
-
----
-
-### 📊 GitHub Stats
-
+### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beka-web-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=beka-web-dev&show_icons=true&theme=radical" alt="Beka's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beka-web-dev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beka-web-dev&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=beka-web-dev&theme=radical" alt="GitHub Streak" />
 </p>
+
+---
+
+### 🏆 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=beka-web-dev&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+### ✍️ **Random Dev Quote**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
+### 🔥 **Contribution Graph**
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=beka-web-dev&theme=react-dark" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🎧 **Spotify Playing**
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem" alt="Spotify Playing" />
+</p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beka-web-dev&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github.com/beka-web-dev/beka-web-dev/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
-
-<!-- ====== END OF README ====== -->
