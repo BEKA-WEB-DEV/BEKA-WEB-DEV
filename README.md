@@ -77,7 +77,7 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beka-web-dev&show_icons=true&theme=radical" alt="Beka's GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=beka-web-dev&show_icons=true&theme=radical" alt="Beka's GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beka-web-dev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
