@@ -14,7 +14,6 @@
 
 ### 🚀 **About Me**
 - 🔭 I’m currently working on a **School Management System**.
-- 🌱 I’m learning **Advanced React and Node.js**.
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/beka-web-dev).
 - 📫 How to reach me: **bktessem9@gmail.com**.
 - ⚡ Fun fact: I love solving problems and building things from scratch.
