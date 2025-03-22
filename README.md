@@ -101,10 +101,11 @@
 
 ---
 
-### 🔥 **Contribution Graph**
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=beka-web-dev&theme=react-dark" alt="Contribution Graph" />
-</p>
+### 🔥 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beka-web-dev&theme=react-dark" alt="Contribution Graph" />
+</div>
+
 
 ---
 
