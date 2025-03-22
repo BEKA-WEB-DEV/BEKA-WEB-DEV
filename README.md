@@ -105,16 +105,3 @@
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=beka-web-dev&theme=react-dark" alt="Contribution Graph" />
 </p>
-
----
-
-### 🎧 **Spotify Playing**
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=novatorem" alt="Spotify Playing" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/beka-web-dev/beka-web-dev/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
