@@ -92,14 +92,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=beka-web-dev&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p> -->
 
----
+
 
 ### ✍️ **Random Dev Quote**
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
----
 
 <!--### 🔥 Contribution Graph
 <div align="center">
