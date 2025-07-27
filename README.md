@@ -101,10 +101,10 @@
 
 ---
 
-### 🔥 Contribution Graph
+<!--### 🔥 Contribution Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=beka-web-dev&theme=react-dark" alt="Contribution Graph" />
-</div>
+</div> -->
 
 
 ---
