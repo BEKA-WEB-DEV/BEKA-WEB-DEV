@@ -87,12 +87,13 @@
 
 ---
 
--### 🏆 **GitHub Trophies**
+<!--### 🏆 **GitHub Trophies**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=beka-web-dev&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
----
+--- 
+-->
 
 ### ✍️ **Random Dev Quote**
 <p align="center">
